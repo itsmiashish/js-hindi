@@ -15,5 +15,8 @@ console.log(`print after sorting     ${newArr}`);
 newArr.splice(2,4);
 console.log(`print after using splice method using   ${newArr}`);
 
+// these simple array method.
+
+
 
 
