@@ -29,3 +29,21 @@ const div = (num1, num2)=>{
     return num1/num2;
 }
 console.log(div(66,2));// when you write curly brackets then you write return keyword. 
+
+// // let count =5;
+
+const counter = ()=>{
+  
+for (let i = 1; i <8; i++) {
+    let row = "";
+ for(let j=1;j<i;j++){
+    row += "*";
+ }
+ console.log(row);
+}
+
+  
+   
+}
+counter();
+
