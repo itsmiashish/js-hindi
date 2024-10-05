@@ -43,8 +43,21 @@ for (const value of Map) {
 //  console.log(value);  // this simple type print you map value. in this formate print array type data.
     
 }
+ const map = new Map();
+ map.set("as",1);
+ map.set("sa",2);
+ map.set("ki",3);
+ map.set("sas",3);
+ map.set("aas",5);
 
+<<<<<<< Updated upstream
 for (const [key,value] of Map) {
  console.log(key,value); // this way you print like simple data formate. it's also know as array destructure. 
 
+=======
+// console.log(map);
+for (const key of map) {
+    console.log(key);
+    
+>>>>>>> Stashed changes
 }
