@@ -48,3 +48,9 @@ do {
     num2++;
 } while (num2<=10);
 } while (num<10 );
+// print my name 5 time using for loop.
+for(let i =0;i<=5;i++)
+{
+    console.log("Kumar_Ashish");
+    
+}
