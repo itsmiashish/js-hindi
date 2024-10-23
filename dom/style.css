@@ -1,0 +1,68 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	background-color: #212121;
+
+}
+#green
+{
+	height: 100px;
+	width: 100px;
+	color: aliceblue;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: large;
+	text-align: center;
+	cursor: pointer;
+}
+#yellow
+{ height: 100px;
+	width: 100px;
+	color: aliceblue;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: large;
+	text-align: center;
+	cursor: pointer;
+}
+#orange
+{
+	height: 100px;
+	width: 100px;
+	color: aliceblue;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: large;
+	text-align: center;
+	cursor: pointer;
+}
+#blue
+{ height: 100px;
+	width: 100px;
+	color: aliceblue;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: large;
+	text-align: center;
+	cursor: pointer;
+}
+#reset
+{ height: 100px;
+	width: 100px;
+	color: aliceblue;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: large;
+	text-align: center;
+	cursor: pointer;
+}
+.h2
+{
+	color: white;
+}
+.flex
+{ height: 100vh;
+	width: 100vh;
+	display: flex;
+	justify-self:center;
+	align-items: center;
+	
+}
