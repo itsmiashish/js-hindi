@@ -1,0 +1,180 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+.super
+{
+	height: 100vh;
+	width: 100vh;
+	background-color: #212121;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.main
+{
+	height: 400px;
+	width: 300px;
+	background-color: rgb(14, 29, 14);
+	border-radius: 5px 5px 10px 10px;
+}
+.input
+{
+	height: 60px;
+	width: 300px;
+	background-color: #a09292;
+	border-radius: 5px;
+	color: white;
+	font-size: 30px;
+
+}
+.button
+{
+	height: 60px;
+	width: 300px;
+	display: flex;
+	gap: 70px;
+
+}
+.button1
+{
+	height: 60px;
+	width: 300px;
+	display: flex;
+	gap: 30px;
+
+}
+.first{
+	height: 50px;
+	width: 50px;
+	color: white;
+	font-family: cursive;
+	font-size: 20px;
+	background-color: rgb(226, 43, 76);
+	text-align: center;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-top: 5px;
+}
+.sec{
+	height: 50px;
+	width: 50px;
+	color: white;
+	font-family: cursive;
+	font-size: 20px;
+	background-color: rgb(226, 43, 76);
+	text-align: center;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-top: 5px;
+}
+.three{
+	height: 50px;
+	width: 50px;
+	color: white;
+	font-family: cursive;
+	font-size: 20px;
+	background-color: rgb(226, 43, 76);
+	text-align: center;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-top: 5px;
+}
+.fourth{
+	height: 50px;
+	width: 50px;
+	color: white;
+	font-family: cursive;
+	font-size: 20px;
+	background-color: rgb(226, 43, 76);
+	text-align: center;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-top: 5px;
+}
+.btn1{
+	height: 50px;
+	width: 50px;
+	color: white;
+	font-family: cursive;
+	font-size: 20px;
+	background-color: rgb(226, 43, 76);
+	text-align: center;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-top: 5px;
+}
+.btn2{
+	height: 50px;
+	width: 50px;
+	color: white;
+	font-family: cursive;
+	font-size: 20px;
+	background-color: rgb(226, 43, 92);
+	text-align: center;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-top: 5px;
+}
+.btn3{
+	height: 50px;
+	width: 50px;
+	color: white;
+	font-family: cursive;
+	font-size: 20px;
+	background-color:  rgb(226, 43, 92);
+	text-align: center;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-top: 5px;
+}
+.btn4{
+	height: 50px;
+	width: 50px;
+	color: white;
+	font-family: cursive;
+	font-size: 20px;
+	background-color: rgb(226, 43, 92);
+	text-align: center;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-top: 5px;
+}
+.btn5{
+	height: 50px;
+	width: 50px;
+	color: white;
+	font-family: cursive;
+	font-size: 20px;
+	background-color:  rgb(226, 43, 92);
+	text-align: center;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-top: 5px;
+}
+.btn6{
+	height: 50px;
+	width: 50px;
+	color: white;
+	font-family: cursive;
+	font-size: 20px;
+	background-color: blueviolet;
+	text-align: center;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-top: 5px;
+}
+
+.equal{
+	height: 50px;
+	width: 50px;
+	color: white;
+	font-family: cursive;
+	font-size: 20px;
+	background-color: blueviolet;
+	text-align: center;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-top: 5px;
+}
