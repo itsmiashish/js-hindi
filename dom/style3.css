@@ -6,7 +6,7 @@
 .super
 {
 	height: 100vh;
-	width: 100vh;
+	/* width: 100vh; */
 	background-color: #212121;
 	display: flex;
 	justify-content: center;
@@ -14,15 +14,16 @@
 }
 .main
 {
-	height: 400px;
+	height: 380px;
 	width: 300px;
 	background-color: rgb(14, 29, 14);
 	border-radius: 5px 5px 10px 10px;
+	padding: 0px 0px 0px 5px;
 }
 .input
 {
 	height: 60px;
-	width: 300px;
+	width: 290px;
 	background-color: #a09292;
 	border-radius: 5px;
 	color: white;
@@ -51,7 +52,7 @@
 	color: white;
 	font-family: cursive;
 	font-size: 20px;
-	background-color: rgb(226, 43, 76);
+	background-color: blue;
 	text-align: center;
 	cursor: pointer;
 	border-radius: 10px;
@@ -63,7 +64,7 @@
 	color: white;
 	font-family: cursive;
 	font-size: 20px;
-	background-color: rgb(226, 43, 76);
+	background-color: blue;
 	text-align: center;
 	cursor: pointer;
 	border-radius: 10px;
@@ -75,7 +76,7 @@
 	color: white;
 	font-family: cursive;
 	font-size: 20px;
-	background-color: rgb(226, 43, 76);
+	background-color: blue;
 	text-align: center;
 	cursor: pointer;
 	border-radius: 10px;
@@ -87,7 +88,31 @@
 	color: white;
 	font-family: cursive;
 	font-size: 20px;
-	background-color: rgb(226, 43, 76);
+	background-color: blue;
+	text-align: center;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-top: 5px;
+}
+.btn0{
+	height: 50px;
+	width: 50px;
+	color: white;
+	font-family: cursive;
+	font-size: 20px;
+	background-color: blue;
+	text-align: center;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-top: 5px;
+}
+.btn_dot{
+	height: 50px;
+	width: 50px;
+	color: white;
+	font-family: cursive;
+	font-size: 20px;
+	background-color: blue;
 	text-align: center;
 	cursor: pointer;
 	border-radius: 10px;
@@ -99,7 +124,7 @@
 	color: white;
 	font-family: cursive;
 	font-size: 20px;
-	background-color: rgb(226, 43, 76);
+	background-color: blue;
 	text-align: center;
 	cursor: pointer;
 	border-radius: 10px;
@@ -111,7 +136,7 @@
 	color: white;
 	font-family: cursive;
 	font-size: 20px;
-	background-color: rgb(226, 43, 92);
+	background-color: blue;
 	text-align: center;
 	cursor: pointer;
 	border-radius: 10px;
@@ -123,7 +148,7 @@
 	color: white;
 	font-family: cursive;
 	font-size: 20px;
-	background-color:  rgb(226, 43, 92);
+	background-color:  blue;
 	text-align: center;
 	cursor: pointer;
 	border-radius: 10px;
@@ -135,7 +160,7 @@
 	color: white;
 	font-family: cursive;
 	font-size: 20px;
-	background-color: rgb(226, 43, 92);
+	background-color: blue;
 	text-align: center;
 	cursor: pointer;
 	border-radius: 10px;
@@ -147,7 +172,19 @@
 	color: white;
 	font-family: cursive;
 	font-size: 20px;
-	background-color:  rgb(226, 43, 92);
+	background-color:  blue;
+	text-align: center;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-top: 5px;
+}
+.ac{
+	height: 50px;
+	width: 50px;
+	color: white;
+	font-family: cursive;
+	font-size: 20px;
+	background-color:  red;
 	text-align: center;
 	cursor: pointer;
 	border-radius: 10px;
@@ -159,20 +196,56 @@
 	color: white;
 	font-family: cursive;
 	font-size: 20px;
-	background-color: blueviolet;
+	background-color: blue;
 	text-align: center;
 	cursor: pointer;
 	border-radius: 10px;
 	margin-top: 5px;
 }
 
+.btn7{
+	height: 50px;
+	width: 50px;
+	color: white;
+	font-family: cursive;
+	font-size: 20px;
+	background-color: blue;
+	text-align: center;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-top: 5px;
+}
+.btn8{
+	height: 50px;
+	width: 50px;
+	color: white;
+	font-family: cursive;
+	font-size: 20px;
+	background-color: blue;
+	text-align: center;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-top: 5px;
+}
+.btn9{
+	height: 50px;
+	width: 50px;
+	color: white;
+	font-family: cursive;
+	font-size: 20px;
+	background-color: blue;
+	text-align: center;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-top: 5px;
+}
 .equal{
 	height: 50px;
 	width: 50px;
 	color: white;
 	font-family: cursive;
 	font-size: 20px;
-	background-color: blueviolet;
+	background-color: blue;
 	text-align: center;
 	cursor: pointer;
 	border-radius: 10px;
